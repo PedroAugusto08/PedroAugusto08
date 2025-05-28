@@ -17,10 +17,10 @@
 
 ---
 
-## 🚧 Projetos em Destaque
-- [![Projeto Importante](https://img.shields.io/badge/Projeto%20Importante-Contribuidor-blue)]([https://github.com/usuario-amigo/repositorio](https://github.com/Ak4ai/TasksApp): Um aplicativo de rotina gamifcado, prático e eficaz.
-- [🔗 Nome do Projeto 2](https://github.com/seu-usuario/projeto2): Outra descrição legal.
-- [🔗 Nome do Projeto 3](https://github.com/seu-usuario/projeto3): Pode ser algo pessoal, da faculdade, etc.
+## 🚀 Projetos em Destaque
+📌 [R.U.N.A](https://github.com/Ak4ai/TasksApp): Um aplicativo de rotina gamifcado, prático e eficaz.
+📌 [Artigo Sobre Grafos](https://github.com/PedroAugusto08/Artigo-AEDS): Um artigo sobre grafos feito para a matéria de AEDS.
+📌 [Space Invaders](https://github.com/Jottynha/SPACE-INVADERS-LP): Uma simulação do jogo retro Space Invaders, feito para a matéria Linguagens de Programação
 
 ---
 
