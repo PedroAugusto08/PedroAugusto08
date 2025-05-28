@@ -18,7 +18,7 @@
 ---
 
 ## 🚧 Projetos em Destaque
-- [🔗 Nome do Projeto 1](https://github.com/seu-usuario/projeto1): Breve descrição do que ele faz.
+- [![Projeto Importante](https://img.shields.io/badge/Projeto%20Importante-Contribuidor-blue)]([https://github.com/usuario-amigo/repositorio](https://github.com/Ak4ai/TasksApp): Um aplicativo de rotina gamifcado, prático e eficaz.
 - [🔗 Nome do Projeto 2](https://github.com/seu-usuario/projeto2): Outra descrição legal.
 - [🔗 Nome do Projeto 3](https://github.com/seu-usuario/projeto3): Pode ser algo pessoal, da faculdade, etc.
 
@@ -26,7 +26,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugusto08&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto08&layout=compact&theme=tokyonight)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugusto08&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto08&layout=compact&theme=tokyonight)
 
 ---
 
