@@ -32,6 +32,10 @@
 
 ---
 
+![snake gif](https://github.com/PedroAugusto08/PedroAugusto08/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroagmoura)  
 📧 Email: pedroaugustomoura70927@gmail.com
