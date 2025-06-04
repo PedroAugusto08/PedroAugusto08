@@ -2,8 +2,10 @@
 
 > *"Grandes commits vêm com grandes responsabilidades."* 🕸️
 
-🎓 Estudante de Engenharia da Computação no CEFET-MG  
+🎓 Estudante de Engenharia da Computação no CEFET-MG
+
 💻 Entusiasta de tecnologia
+
 🚀 Explorando o universo da programação
 
 ---
