@@ -29,12 +29,12 @@
 Um aplicativo de rotina gamificado, prático e eficaz.
 
 
-### 📄 [Artigo Sobre Grafos](https://github.com/PedroAugusto08/Artigo-AEDS)  
-Um artigo acadêmico sobre grafos desenvolvido para a matéria de AEDS.
+### 📄 [L.I.G.H.T](https://github.com/PedroAugusto08/LIGHT)  
+Aplicação web para calcular estatísticas de construtos mágicos em um sistema de RPG.
 
 
-### 👾 [Space Invaders](https://github.com/Jottynha/SPACE-INVADERS-LP) [![Co-criador](https://img.shields.io/badge/Co--criador-blue)](https://github.com/Jottynha/SPACE-INVADERS-LP)  
-Simulação do clássico jogo Space Invaders, criada para a matéria de Linguagens de Programação.
+### 👾 [Job Interview Komabt](https://github.com/PedroAugusto08/Job-Interview-Kombat) [![Co-criador](https://img.shields.io/badge/Co--criador-blue)](https://github.com/PedroAugusto08/Job-Interview-Kombat)  
+Aplicação web para treinar entrevistas de emprego em inglês de forma lúdica e envolvente.
 
 
 ---
