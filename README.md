@@ -10,7 +10,7 @@
 
 ---
 
-## 🔥 Tecnologias e Linguagens em Estudos
+## 🔥 Tecnologias e Linguagens
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -21,7 +21,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ---
 
 ## 🚀 Projetos em Destaque
@@ -34,9 +34,11 @@ Um aplicativo de rotina gamificado, prático e eficaz.
 Aplicação web para calcular estatísticas de construtos mágicos em um sistema de RPG.
 
 
-### 👾 [Job Interview Komabt](https://github.com/PedroAugusto08/Job-Interview-Kombat) [![Co-criador](https://img.shields.io/badge/Co--criador-blue)](https://github.com/PedroAugusto08/Job-Interview-Kombat)  
+### 👾 [Job Interview Kombat](https://github.com/PedroAugusto08/Job-Interview-Kombat) [![Co-criador](https://img.shields.io/badge/Co--criador-blue)](https://github.com/PedroAugusto08/Job-Interview-Kombat)  
 Aplicação web para treinar entrevistas de emprego em inglês de forma lúdica e envolvente.
 
+### 💰 [UntilPay](https://github.com/PedroAugusto08/UntilPay)  
+Aplicação web para controle de gastos baseado em ciclos de salário.
 
 ---
 
