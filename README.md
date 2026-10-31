@@ -55,8 +55,8 @@ Projeto colaborativo do CEFET-MG com a Secretaria Municipal de Saúde, voltado a
 
 ## 📊 Estatísticas do GitHub
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAugusto08&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugusto08&layout=compact&theme=tokyonight)
+![Pedro's GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 ## 🐍 Meus rastros no GitHub!
