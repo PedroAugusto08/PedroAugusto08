@@ -24,11 +24,19 @@ Meus projetos conectam desenvolvimento de software, experimentação em aprendiz
 
 ## 🚀 Projetos em destaque
 
-### 🤖 JARVIS — Assistente desktop com IA
-Projeto pessoal **privado, em desenvolvimento**, para Windows. Integra gerenciamento de tarefas locais por conversa com IA, dashboard e assistente flutuante, com persistência em SQLite.
+### 🤖 [Windows AI Assistant (JARVIS)](https://github.com/PedroAugusto08/windows-ai-assistant)
 
-**Tecnologias:** Tauri, React, TypeScript, Rust e integração com Gemini.  
-O código-fonte permanece privado.
+Assistente desktop com inteligência artificial para Windows, desenvolvido para integrar **interação em linguagem natural à execução controlada de tarefas locais**.
+
+O projeto utiliza IA para interpretar solicitações, enquanto a aplicação valida e autoriza as operações. Conta com gerenciamento de tarefas persistidas em SQLite, interface central, assistente flutuante e mecanismos de segurança e validação.
+
+**Tecnologias:** Rust, Tauri 2, React, TypeScript, SQLite e Gemini.
+
+**Minha participação:** desenvolvimento do projeto, incluindo arquitetura, integração de IA, interface, persistência de dados e testes.
+
+📂 **[Repositório público](https://github.com/PedroAugusto08/windows-ai-assistant)** · **[Demonstração e imagens](https://github.com/PedroAugusto08/windows-ai-assistant#interface)** · **[Arquitetura](https://github.com/PedroAugusto08/windows-ai-assistant/blob/main/docs/architecture.md)**
+
+*Versão pública de portfólio, baseada em um estágio validado do desenvolvimento. O projeto principal continua evoluindo em repositório privado.*
 
 ### 📈 [LIS-ANALYSIS](https://github.com/Jottynha/LIS-ANALYSIS)
 Ferramenta em Python para analisar arquivos de simulações ATP, extrair estatísticas e gerar planilhas e gráficos. Conta com interface gráfica e recursos para edição de parâmetros de simulação.
